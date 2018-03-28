@@ -18,7 +18,7 @@ Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dash
 
 ## Prototypes / alpha versions
 
-### [Cloudberry](https://github.com/innovationgarage/cloudberry)
+### [Cloudberry](https://innovationgarage.github.io/cloudberry/)
 Documentation of, and a set of extensions on top of OpenWRT, OpenWISP and OpenVPN to implement network-to-docker-container-to-network routed vpn that supports both end-points being behind NAT and DHCP.
 
 ### [Price Tag Reader](https://github.com/innovationgarage/price-tag-reader)
