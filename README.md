@@ -1,6 +1,6 @@
 ## Open Source projects @ Innovation garage AS
 
-For our main website, see http://innovationgarage.no
+For our main website, see https://www.innovationgarage.no/
 
 ## Completed projects
 
