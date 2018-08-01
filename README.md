@@ -21,6 +21,9 @@ Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dash
 ### [Cloudberry](https://innovationgarage.github.io/cloudberry/)
 Documentation of, and a set of extensions on top of OpenWRT, OpenWISP and OpenVPN to implement network-to-docker-container-to-network routed vpn that supports both end-points being behind NAT and DHCP.
 
+### [ElkProxy](https://innovationgarage.github.io/elkproxy/)
+ElkProxy is a highly configurable proxy server that sits in front of an Elastic Search server and filters/rewrites searches, document downloads, uploads, and updates.
+
 ### [Price Tag Reader](https://github.com/innovationgarage/price-tag-reader)
 Project to read supermarket price tags from photos to increase price transparency in the food market.
 
