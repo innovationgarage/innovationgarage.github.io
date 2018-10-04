@@ -16,7 +16,14 @@ A semi-automatic video labeling tool. Label-V uses the multi-tracking algorithm 
 ### [Scramble](https://github.com/innovationgarage/Scramble)
 Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dashboards, monitoring data etc. where you don't want to accidentally leak customer or other private data.
 
+### [SakStig](https://innovationgarage.github.io/sakstig/)
+SakStig is an object query and templating library any python object that supports the dict or list interfaces. The query language is compatible with the [objectpath](http://www.objectpat.org) query language.
+
+
 ## Prototypes / alpha versions
+
+### [GribUtils](https://github.com/innovationgarage/gributils)
+Gributils is a set of utilities on top of pygrib for manipulating and indexing a large (historical) set of gribfiles.
 
 ### [Cloudberry](https://innovationgarage.github.io/cloudberry/)
 Documentation of, and a set of extensions on top of OpenWRT, OpenWISP and OpenVPN to implement network-to-docker-container-to-network routed vpn that supports both end-points being behind NAT and DHCP.
