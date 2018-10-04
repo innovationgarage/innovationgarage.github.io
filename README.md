@@ -17,7 +17,7 @@ A semi-automatic video labeling tool. Label-V uses the multi-tracking algorithm 
 Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dashboards, monitoring data etc. where you don't want to accidentally leak customer or other private data.
 
 ### [SakStig](https://innovationgarage.github.io/sakstig/)
-SakStig is an object query and templating library any python object that supports the dict or list interfaces. The query language is compatible with the [objectpath](http://www.objectpat.org) query language.
+SakStig is an object query and templating library any python object that supports the dict or list interfaces. The query language is compatible with the [objectpath](http://www.objectpath.org) query language.
 
 
 ## Prototypes / alpha versions
