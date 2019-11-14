@@ -19,12 +19,14 @@ TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS mes
 ### [ProtoSwitchBoard](https://innovationgarage.github.io/ProtoSwitchBoard)
 Does all your electronics prototypes end up looking like a snake nest? ProtoSwitchBoard is a labeled interconnect for your project designed to make your experimental prototypes as easy to follow as your circuit diagram!
 
-<img align="right" width="150" src="LabelV.jpg">
+
+<img align="right" width="150" src="cathedral.PNG">
 
 ### [Arctic Cathedral](https://github.com/innovationgarage/ishavskatedralen)
 Replica of Tromso's Arctic Cathedral with leds and wifi capabilities
 
-<img align="right" width="150" src="cathedral.PNG">
+
+<img align="right" width="150" src="LabelV.jpg">
 
 ### [label-V](https://innovationgarage.github.io/label-V)
 A semi-automatic video labeling tool. Label-V uses the multi-tracking algorithm in OpenCV to generate training data for your computer vision project.
