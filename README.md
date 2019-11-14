@@ -33,13 +33,17 @@ SakStig is an object query and templating library any python object that support
 ### [GribUtils](https://github.com/innovationgarage/gributils)
 Gributils is a set of utilities on top of pygrib for manipulating and indexing a large (historical) set of gribfiles.
 
-
-## Prototypes / alpha versions
+### [Socket tentacles](https://github.com/innovationgarage/socket-tentacles)
+Simple thread based tcp client/server that divorces the concept of server/client from which side opens the tcp connection. Configured using a simple dictionary structure that can be easily read from json.
 
 <img align="right" width="150" src="TinyTracker.png">
 
 ### [TinyTracker](https://github.com/innovationgarage/ElCheapoAIS-nmea)
-TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS messages from a ship, including its own position, speed etc to land using its regular (satellite) internet connection. Intended to be used together with GeoCloud.
+TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS messages from a ship, including its own position, speed etc to land using its regular (satellite) internet connection. Designed to be used together with GeoCloud on the server side, but can send the NMEA stream to any raw TCP port.
+
+## Prototypes / alpha versions
+
+### [GeoCloud](https://innovationgarage.github.io/GeoCloud)
 
 ### [Cloudberry](https://innovationgarage.github.io/cloudberry/)
 Documentation of, and a set of extensions on top of OpenWRT, OpenWISP and OpenVPN to implement network-to-docker-container-to-network routed vpn that supports both end-points being behind NAT and DHCP.
