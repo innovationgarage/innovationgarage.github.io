@@ -15,9 +15,6 @@ TTyGO turns an Arduino into a simple VT220 compatible serial terminal with some 
 ### [ProtoSwitchBoard](https://innovationgarage.github.io/ProtoSwitchBoard)
 Does all your electronics prototypes end up looking like a snake nest? ProtoSwitchBoard is a labeled interconnect for your project designed to make your experimental prototypes as easy to follow as your circuit diagram!
 
-### [TFPrism](https://innovationgarage.github.io/tfprism/)
-TFPrism is a library that transforms your tensorflow graph to automatically do data parallelism for training. All you need to do to modify your single-cpu tensorflow code to run on a cluster is to send your training op and feed_dict through the library.
-
 
 <img align="right" width="150" src="LabelV.jpg">
 
@@ -62,3 +59,5 @@ Project to read supermarket price tags from photos to increase price transparenc
 ### [ChalkMail](https://github.com/innovationgarage/ChalkMail)
 Write your email address on a white-board/table top at the end of a meeting to have a snapshot of the board sent to your inbox.
 
+### [TFPrism](https://innovationgarage.github.io/tfprism/)
+TFPrism is a library that transforms your tensorflow graph to automatically do data parallelism for training. All you need to do to modify your single-cpu tensorflow code to run on a cluster is to send your training op and feed_dict through the library.
