@@ -28,7 +28,7 @@ A semi-automatic video labeling tool. Label-V uses the multi-tracking algorithm 
 ## Libraries
 
 ### [SakStig](https://innovationgarage.github.io/sakstig/)
-SakStig is an object query and templating library any python object that supports the dict or list interfaces. The query language is compatible with the [objectpath](http://www.objectpath.org) query language.
+SakStig is an object query and templating library for any python object that supports the dict or list interfaces. The query language is compatible with the [objectpath](http://www.objectpath.org) query language.
 
 ### [GribUtils](https://github.com/innovationgarage/gributils)
 Gributils is a set of utilities on top of pygrib for manipulating and indexing a large (historical) set of gribfiles.
