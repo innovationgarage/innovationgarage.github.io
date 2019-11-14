@@ -46,6 +46,7 @@ Simple thread based tcp client/server that divorces the concept of server/client
 ## Prototypes / alpha versions
 
 ### [GeoCloud](https://innovationgarage.github.io/GeoCloud)
+GeoCloud is a position tracking and track annotation system for ships, based on ElasticSearch and AIS data in NMEA format. It can download weather data in GRIB format and annotate positional data with meteorological data for the relevant place and time.
 
 ### [Cloudberry](https://innovationgarage.github.io/cloudberry/)
 Documentation of, and a set of extensions on top of OpenWRT, OpenWISP and OpenVPN to implement network-to-docker-container-to-network routed vpn that supports both end-points being behind NAT and DHCP.
