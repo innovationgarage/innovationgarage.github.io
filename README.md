@@ -30,11 +30,16 @@ Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dash
 ### [SakStig](https://innovationgarage.github.io/sakstig/)
 SakStig is an object query and templating library any python object that supports the dict or list interfaces. The query language is compatible with the [objectpath](http://www.objectpath.org) query language.
 
+### [GribUtils](https://github.com/innovationgarage/gributils)
+Gributils is a set of utilities on top of pygrib for manipulating and indexing a large (historical) set of gribfiles.
+
 
 ## Prototypes / alpha versions
 
-### [GribUtils](https://github.com/innovationgarage/gributils)
-Gributils is a set of utilities on top of pygrib for manipulating and indexing a large (historical) set of gribfiles.
+<img align="right" width="150" src="TinyTracker.jpg">
+
+### [TinyTracker](https://github.com/innovationgarage/ElCheapoAIS-nmea)
+TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS messages from a ship, including its own position, speed etc to land using its regular (satellite) internet connection. Intended to be used together with GeoCloud.
 
 ### [Cloudberry](https://innovationgarage.github.io/cloudberry/)
 Documentation of, and a set of extensions on top of OpenWRT, OpenWISP and OpenVPN to implement network-to-docker-container-to-network routed vpn that supports both end-points being behind NAT and DHCP.
