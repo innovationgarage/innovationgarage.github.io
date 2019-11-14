@@ -21,6 +21,11 @@ Does all your electronics prototypes end up looking like a snake nest? ProtoSwit
 
 <img align="right" width="150" src="LabelV.jpg">
 
+### [Arctic Cathedral](https://github.com/innovationgarage/ishavskatedralen)
+Replica of Tromso's Arctic Cathedral with leds and wifi capabilities
+
+<img align="right" width="150" src="cathedral.PNG">
+
 ### [label-V](https://innovationgarage.github.io/label-V)
 A semi-automatic video labeling tool. Label-V uses the multi-tracking algorithm in OpenCV to generate training data for your computer vision project.
 
@@ -62,3 +67,11 @@ TFPrism is a library that transforms your tensorflow graph to automatically do d
 
 ### [Scramble](https://github.com/innovationgarage/Scramble)
 Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dashboards, monitoring data etc. where you don't want to accidentally leak customer or other private data.
+
+### [DrowningWarnings](https://wiki.innovationgarage.no/wiki/DrowningWarnings)
+Combination of several projects related with prevention of boats getting flipped. Includes a 3d design for a printable boat, a wave generation pool and a small datacollector for movement data (https://github.com/innovationgarage/DrowningWarning-viz)
+
+### [ePiMP](https://github.com/innovationgarage/epimp-body)
+Wooden platform for experiments. His brain resides here https://github.com/innovationgarage/epimp-brain
+
+<img align="right" width="150" src="https://github.com/innovationgarage/epimp-body/blob/master/platform/media/detection.gif">
