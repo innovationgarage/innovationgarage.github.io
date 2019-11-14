@@ -36,7 +36,7 @@ Gributils is a set of utilities on top of pygrib for manipulating and indexing a
 
 ## Prototypes / alpha versions
 
-<img align="right" width="150" src="TinyTracker.jpg">
+<img align="right" width="150" src="TinyTracker.png">
 
 ### [TinyTracker](https://github.com/innovationgarage/ElCheapoAIS-nmea)
 TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS messages from a ship, including its own position, speed etc to land using its regular (satellite) internet connection. Intended to be used together with GeoCloud.
