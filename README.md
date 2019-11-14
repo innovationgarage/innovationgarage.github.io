@@ -10,7 +10,7 @@ For our main website, see https://www.innovationgarage.no/
 TTyGO turns an Arduino into a simple VT220 compatible serial terminal with some XTerm extensions with optional UTF-8 support. It uses the U8g2lib graphical library, so it is compatible with a lot of displays.
 
 
-<img align="left" width="150" src="PSB.jpg">
+<img align="right" width="150" src="PSB.jpg">
 
 ### [ProtoSwitchBoard](https://innovationgarage.github.io/ProtoSwitchBoard)
 Does all your electronics prototypes end up looking like a snake nest? ProtoSwitchBoard is a labeled interconnect for your project designed to make your experimental prototypes as easy to follow as your circuit diagram!
