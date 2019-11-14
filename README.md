@@ -21,9 +21,6 @@ Does all your electronics prototypes end up looking like a snake nest? ProtoSwit
 ### [label-V](https://innovationgarage.github.io/label-V)
 A semi-automatic video labeling tool. Label-V uses the multi-tracking algorithm in OpenCV to generate training data for your computer vision project.
 
-### [Scramble](https://github.com/innovationgarage/Scramble)
-Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dashboards, monitoring data etc. where you don't want to accidentally leak customer or other private data.
-
 
 <img align="right" width="150" src="TinyTracker.png">
 
@@ -62,3 +59,6 @@ Write your email address on a white-board/table top at the end of a meeting to h
 
 ### [TFPrism](https://innovationgarage.github.io/tfprism/)
 TFPrism is a library that transforms your tensorflow graph to automatically do data parallelism for training. All you need to do to modify your single-cpu tensorflow code to run on a cluster is to send your training op and feed_dict through the library.
+
+### [Scramble](https://github.com/innovationgarage/Scramble)
+Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dashboards, monitoring data etc. where you don't want to accidentally leak customer or other private data.
