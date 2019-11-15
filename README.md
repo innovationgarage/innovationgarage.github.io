@@ -25,6 +25,10 @@ Does all your electronics prototypes end up looking like a snake nest? ProtoSwit
 ### [Arctic Cathedral](https://github.com/innovationgarage/ishavskatedralen)
 Replica of Tromso's Arctic Cathedral with leds and wifi capabilities. Has 11 columns of lights and runs a real recording of an aurora. The final purpose of the project is to replicate the local sky in Tromso in realtime anywhere in the world, but this part has not been implemented yet. 
 
+<img align="right" width="150" src="NOSE.PNG">
+
+### [N.O.S.E.](https://github.com/innovationgarage/NOSE)
+Low cost environmental sensor for office spaces. The N.O.S.E. has light indicators to state the current CO2 (by the level of green, looking sick) or temperature (if the office is cold, it gets red).  
 
 <img align="right" width="150" src="LabelV.jpg">
 
