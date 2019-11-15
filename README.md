@@ -73,7 +73,8 @@ Firefox scramble plugin for scrambing web pages. Nice to use for scrambling dash
 ### [DrowningWarnings](https://wiki.innovationgarage.no/wiki/DrowningWarnings)
 Combination of several projects related with prevention of boats getting flipped. Includes a 3d design for a printable boat, a wave generation pool and a small datacollector for movement data (https://github.com/innovationgarage/DrowningWarning-viz)
 
-### [ePiMP](https://github.com/innovationgarage/epimp-body)
-Wooden platform for experiments. His brain resides here https://github.com/innovationgarage/epimp-brain
-
 <img align="right" width="150" src="https://github.com/innovationgarage/epimp-body/blob/master/platform/media/detection.gif?raw=true">
+
+### [ePiMP](https://github.com/innovationgarage/epimp-body)
+Wooden platform for experiments. Its brain resides [here](https://github.com/innovationgarage/epimp-brain).
+
