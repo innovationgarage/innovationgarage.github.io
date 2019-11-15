@@ -40,7 +40,7 @@ SakStig is an object query and templating library for any python object that sup
 
 <img align="right" width="150" src="https://raw.githubusercontent.com/innovationgarage/gributils/master/docs/gribfile.png">
 
-### [GribUtils](https://github.com/innovationgarage/gributils)
+### [GribUtils](https://innovationgarage.github.io/gributils)
 Gributils is a set of utilities on top of pygrib for manipulating and indexing a large (historical) set of weather predictions (model output) in the gribfile format.
 
 ### [Socket tentacles](https://github.com/innovationgarage/socket-tentacles)
