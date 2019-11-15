@@ -76,4 +76,4 @@ Combination of several projects related with prevention of boats getting flipped
 ### [ePiMP](https://github.com/innovationgarage/epimp-body)
 Wooden platform for experiments. His brain resides here https://github.com/innovationgarage/epimp-brain
 
-<img align="right" width="150" src="https://github.com/innovationgarage/epimp-body/blob/master/platform/media/detection.gif">
+<img align="right" width="150" src="https://github.com/innovationgarage/epimp-body/blob/master/platform/media/detection.gif?raw=true">
