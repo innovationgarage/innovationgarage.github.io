@@ -12,12 +12,12 @@ TTyGO turns an Arduino into a simple VT220 compatible serial terminal with some 
 <img align="right" width="150" src="TinyTracker.png">
 
 ### [TinyTracker](https://github.com/innovationgarage/ElCheapoAIS-nmea)
-TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS messages from a ship, including its own position, speed etc to land using its regular (satellite) internet connection. Designed to be used together with GeoCloud on the server side, but can send the NMEA stream to any raw TCP port.
+TinyTracker (Formerly ElcheapoAIS) is a device that can be used to relay AIS messages from a ship, including its own position, speed etc to land using its regular (satellite) internet connection. Designed to be used together with GeoCloud on the server side but can send the NMEA stream to any raw TCP port.
 
 <img align="right" width="150" src="PSB.jpg">
 
 ### [ProtoSwitchBoard](https://innovationgarage.github.io/ProtoSwitchBoard)
-Does all your electronics prototypes end up looking like a snake nest? ProtoSwitchBoard is a labeled interconnect for your project designed to make your experimental prototypes as easy to follow as your circuit diagram!
+Do all your electronics prototypes end up looking like a snake nest? ProtoSwitchBoard is a labeled interconnect for your project designed to make your experimental prototypes as easy to follow as your circuit diagram!
 
 
 <img align="right" width="150" src="cathedral.PNG">
