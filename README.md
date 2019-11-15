@@ -23,7 +23,7 @@ Does all your electronics prototypes end up looking like a snake nest? ProtoSwit
 <img align="right" width="150" src="cathedral.PNG">
 
 ### [Arctic Cathedral](https://github.com/innovationgarage/ishavskatedralen)
-Replica of Tromso's Arctic Cathedral with leds and wifi capabilities
+Replica of Tromso's Arctic Cathedral with leds and wifi capabilities. Has 11 columns of lights and runs a real recording of an aurora. The final purpose of the project is to replicate the local sky in Tromso in realtime anywhere in the world, but this part has not been implemented yet. 
 
 
 <img align="right" width="150" src="LabelV.jpg">
