@@ -1,9 +1,46 @@
 ---
 layout: prototype
 title: Garage DrowningWarning
-alpha: true
 image: $site_url$/assets/experiment.jpg
+github: https://github.com/innovationgarage/DrowningWarning-analytics
 description: |
   The drowning warning system will be able to detect excessive pitch
   and roll of a smaller fishing vessel and warn on shore personell.
 ---
+
+<p>The drowning warning prototype is a box that measures and records
+accelleration and rotation/tilting. This allow us to build up a
+picture of how the boatd has behaved in the sea over time and compare
+this with weather data for the area and time.</p>
+
+<p>We have so far had the prototype installed on two vessels of a
+single sport fishing camp, NAME OF CAMP, over a period of a few days,
+capturing two separate fishing trips.<br>
+
+Installation footage (photo + video)
+</p>
+
+<h2>The data</h2>
+
+<div style="float: left; width: 370px; height: 390px; margin: 0; padding: 0; margin-bottom: 20px;"><a href="{{site.url}}/assets/drowningwarning-raw-acc.png"><img style="width: 100%;" src="{{site.url}}/assets/drowningwarning-raw-acc.png" /></a><br />Raw accelleration data</div>
+<div style="float: left; width: 370px; height: 390px; margin: 0; padding: 0; margin-bottom: 20px;"><a href="https://github.com/innovationgarage/DrowningWarning-analytics/blob/frequency-analysis/notebooks/Simplified%20frequency%20analysis.ipynb"><img style="width: 100%;" src="{{site.url}}/assets/drowningwarning-freq-pos.png" /></a><br />Frequencies of roll/pitch vs position (latitude)</div>
+<div style="float: left; width: 370px; height: 390px; margin: 0; padding: 0; margin-bottom: 20px;"><a href=""><img style="width: 100%;" src="{{site.url}}/assets/drowningwarning-map.png" /></a><br />Accelleration at different positions</div>
+<div style="float: left; width: 370px; height: 390px; margin: 0; padding: 0; margin-bottom: 20px;"><a href="https://www.met.no/en/projects/The-weather-model-AROME-Arctic"><img style="width: 100%;" src="{{site.url}}/assets/drowningwarning-weather.gif" /></a><br />Weather data to be combined with box data</div>
+
+<div style="clear: both;"></div>
+
+<h2>Our vision / logn term goal</h2>
+
+<p>We would like to build a dashboard to be used on shore that shows the
+status of the boats that are out, and that issues warnings for the
+bloats that are experiencing too rough weather conditions.</p>
+
+<h2>What you can do to help us</h2>
+  
+<p>To achieve this we will need to build up a model of how boats of
+different designs and sizes behave in different weather conditions and
+situations. To do that, we need your help!</p>
+
+<p>What we need help with is collecting data from your boats during
+normal operation by installing our prototype box on them, recharging
+the box battery and copying data from the SD-card of the box.</p>
